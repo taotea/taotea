@@ -11,6 +11,7 @@
 </table>
 <br>
 is that true that all of the juniors are usually femboys? i mean, people who say so, they're not so wrong...
+<br>
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpleGpkYm15Zm1nMGNtamRxMjN1bzJmamVkYzQybWRmYWNuczRuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SIACgNZsZgNzHJw3Qu/giphy.gif" alt="kys" align="center">
 <br>
 <br>
@@ -26,13 +27,13 @@ is that true that all of the juniors are usually femboys? i mean, people who say
 ---
 
 ### what can i do
-> i identify myself as web developer, but usually i can do nothing but whine and swear when coding, but i guess it's kinda natural. i suck at coding anyway lmao, but now im trying tsx, tailwind, and other bullshit that is probably gonna be on my diploma.
-> also im looking for a job asap
+i identify myself as web developer, but usually i can do nothing but whine and swear when coding, but i guess it's kinda natural. i suck at coding anyway lmao, but now im trying tsx, tailwind, and other bullshit that is probably gonna be on my diploma.
+- also im looking for a job asap
 
 ### what i do when im free
-> playing videogames, socializing, maybe doing smth interesting, like writing (blog / stories who will never ever see prob), practicing english, or practicing posing in gmod. i lowkey gotta become more experienced in that.
+playing videogames, socializing, maybe doing smth interesting, like writing (blog / stories who will never ever see prob), practicing english, or practicing posing in gmod. i lowkey gotta become more experienced in that. 
 
 ### contacts
-> contacts? yeeaah-- no.
+contacts? yeeaah-- no.
 
 
