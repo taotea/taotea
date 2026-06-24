@@ -5,14 +5,16 @@
 <table align="center" width="100%">
     <tr>
         <td align="center"><img src="img/angel.jpg" alt="angel"></td>
-        <td align="center"><img src="img/chef.jpg" alt="chef" width="100"></td>
+        <td align="center"><img src="img/chef.jpg" alt="chef" width="300"></td>
         <td align="center"><img src="img/nickle.jpg" alt="nicole omg so cool uuh ah :3"></td>
     </tr>
 </table>
 <br>
 is that true that all of the juniors are usually femboys? i mean, people who say so, they're not so wrong...
 <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHpleGpkYm15Zm1nMGNtamRxMjN1bzJmamVkYzQybWRmYWNuczRuMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SIACgNZsZgNzHJw3Qu/giphy.gif" alt="kys" align="center">
-
+<br>
+<br>
+<br>
 <h3 align="center">stuff i do or learning rn:</h3>
 <div align="center">
     <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="Java" width="60" height="60"/>&nbsp;
