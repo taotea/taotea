@@ -5,7 +5,7 @@
 <table align="center" width="100%">
     <tr>
         <td align="center"><img src="img/angel.jpg" alt="angel"></td>
-        <td align="center"><img src="img/chef.jpg" alt="chef" width="300"></td>
+        <td align="center"><img src="img/chef.jpg" alt="chef" width="750"></td>
         <td align="center"><img src="img/nickle.jpg" alt="nicole omg so cool uuh ah :3"></td>
     </tr>
 </table>
